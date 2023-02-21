@@ -1,5 +1,7 @@
 # texto-em-voz-javascript-puro
-//transformar texto em voz com javascript puro
+##transformar texto em voz com javascript puro
+
+
 function fale(texto) {
     let msg = texto
     
